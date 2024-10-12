@@ -1,5 +1,6 @@
 # Hello ! 70kY Here
 
+I'm just a hobbyist
 There's not much to talk about. These are the informations you might be looking for :
 
 ## Languages
@@ -25,8 +26,7 @@ I'm hoping to be able to pair it with some of my future projects as well
 
 ## Current projects
 
-* I'm currently working on an engine based on *SDL* to get my future graphic applications done.
-It will also be taking advantage on the ECS as I find this system rather interesting. Once I finish my test project, I might create a public repository for it so that you can read its code and use it if you'd like to.
+* No real current project for the moment, I've been a bit busy with work lately...
 
 **PS**: I know there might be other projects similar to this one, but I'm not doing it to *reinvent the wheel*, I'm doing it for the comprehension and the experience.
 
